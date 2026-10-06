@@ -18,3 +18,5 @@ GitHub: save, commit, push, and verify each Action checkpoint online.
 Source package: include this project, Assets, README and Evidence; omit bin/obj/.vs.
 Extract elsewhere, open the csproj, build Release, run and test with another person.
 A source ZIP needs the SDK/Visual Studio. It is not a standalone executable.
+
+I Will be making a Green field operation equipment safety training slideshow which will consist of Initial inspection, power on and calibration, and field procedure test. 

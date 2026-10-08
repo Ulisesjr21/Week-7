@@ -27,18 +27,5 @@ Green field sites lack existing infrastructure and present unpredictable environ
 - **Initial Inspection Validation:** Verified that missing an inspection checkpoint triggers a warning before allowing progression.
 - **Calibration Checkpoint:** Confirmed numerical simulation of power-on cycles requires parameter stabilization bounds.
 - **Session Evidence Test:** Screen capture engine validated to successfully capture application boundaries without exposing peripheral desktop windows.
-- **Peer Test:** Run under Release configuration and validated by a secondary reviewer to confirm progression flow clarity.
 
-## Contributions
-- Individual developer operation covering core logic, state framework, asset management, and technical documentation.
 
-## Media Credits
-- Original teaching diagrams adapted and repurposed into stylized equipment schematics. All layout assets are original and open-source.
-
-## Limitations
-- State progression is linear and does not persist data across system restarts.
-- Screen capture utility requires administrative execution clearance depending on localized Windows environment restrictions.
-
-## Next Steps
-- Implement a persistent database layer to track multi-user pass/fail history profiles.
-- Introduce an administrative grading evaluation view for training inspectors.
